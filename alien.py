@@ -248,9 +248,7 @@ while not done:
         
         for column in range(COLS):
             color = BLACK
-
-          
-
+ 
             if grid[row][column] == 1:
 
 
@@ -260,11 +258,7 @@ while not done:
                    color = COLOR2
                elif row in range(10,20):
                     color = COLOR3   
-           
-
-
-
-               	  
+        	  
                else:  	
                   color = RED
                
