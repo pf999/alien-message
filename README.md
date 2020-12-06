@@ -7,6 +7,16 @@ Made with Python and PyGame.
 
 
 
+### How to Run
+
+Requires python 2.65 or later
+
+Runing:  
+
+>  python alien.py 
+
+
+
 ### How to use The Editor
 
 Click on a cell to change its color (sets it to 1 or resets it to 0) 
@@ -15,9 +25,9 @@ Press the following keys.
 
 
 
-C - Clear
+C - Clears the editor so you can draw your own message
 
-P - Play the file from top to bottom
+P - Play the file from top to bottom  ( beeps the 1s)
 
 S - Saves the file to  "new_message.txt" 
 
